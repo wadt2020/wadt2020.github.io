@@ -10,7 +10,7 @@ WADT 2020 will have three thematic streams and one general stream:
 
 * Graph Transformation – chair: Andrea Corradini, Italy
 * System Modelling – chair: Alexander Knapp, Germany
-* Term Rewriting – chair: N.N.
+* Deductive Software Verification – chair: Marieke Huismanm, The Netherlands
 * General Stream - chair: Markus Roggenbach, UK
 
 ### Graph Transformation Stream
