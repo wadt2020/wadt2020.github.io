@@ -6,6 +6,8 @@ The 25th International Workshop on Algebraic Development Techniques 2020 will be
 
 The algebraic approach to system specification encompasses many aspects of the formal design of software systems. Originally born as a formal method for reasoning about abstract data types, it now covers new specification frameworks and programming paradigms (such as object-oriented, aspect oriented, agent-oriented, logic and higher-order functional programming) as well as a wide range of application areas (including information systems, concurrent, distributed and mobile systems). The workshop will provide an opportunity to present recent and ongoing work, to meet colleagues, and to discuss new ideas and future trends.
 
+The workshop takes place under the auspices of IFIP WG 1.3. 
+
 WADT 2020 will have three thematic streams and one general stream:
 
 * Graph Transformation – chair: Andrea Corradini, Italy
@@ -46,7 +48,7 @@ The deductive software verificaion stream seeks contributions addressing theoret
 - Combinations of deductive software verification techniques with other formal methods
 - Applications of deductive software verification on industrial case studies
  
-This stream will be scheduled in such a way that this will be only a minimal overlap with the VerifyThis workshop at Etaps 2020.
+This stream will be scheduled in such a way that there will be only a minimal overlap with the VerifyThis workshop at Etaps 2020, if at all.
 
 ### General Stream
 
@@ -60,4 +62,4 @@ Typical, but not exclusive topics of interest  for the general stream are:
    - Formal testing and quality assurance, validation, and verification
    - Algebraic approaches to cognitive sciences, including computational creativity
 
-The workshop takes place under the auspices of IFIP WG 1.3. 
+
