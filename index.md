@@ -38,9 +38,9 @@ The system modelling stream seeks contributions in the (co-)algebraic and model-
 - Model-based testing
 - Tools for systems specification, testing, and verification
 
-### Deductive software verification stream 
+### Deductive Software Verification Stream 
 
-The deductive software verificaion stream seeks contributions addressing theoretical or tool-related contributions in the area of deductive software verification. Also experience reports are welcome. Here is a non-exclusive list of topics:
+The deductive software verification stream seeks contributions addressing theoretical or tool-related contributions in the area of deductive software verification. Also experience reports are welcome. Here is a non-exclusive list of topics:
 
 - Foundations of deductive software verification and program logics
 - Advancing deductive software verification techniques to new programming languages, or different programming paradigms
