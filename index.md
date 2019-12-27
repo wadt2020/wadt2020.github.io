@@ -48,7 +48,7 @@ The deductive software verification stream seeks contributions addressing theore
 - Combinations of deductive software verification techniques with other formal methods
 - Applications of deductive software verification on industrial case studies
  
-This stream will be scheduled in such a way that there will be only a minimal overlap with the VerifyThis workshop at Etaps 2020, if at all.
+This stream will be scheduled in such a way that there will be no overlap with the VerifyThis workshop at Etaps 2020.
 
 ### General Stream
 
@@ -61,5 +61,41 @@ Typical, but not exclusive topics of interest  for the general stream are:
    - Integration of formal specification techniques
    - Formal testing and quality assurance, validation, and verification
    - Algebraic approaches to cognitive sciences, including computational creativity
+      
+### Submission
 
+The scientific programme of the workshop will include presentations of recent results and ongoing research. 
+The presentations will be selected by the relevant PC Chair on the basis of submitted abstracts according to originality, significance and general interest. The abstracts must be up to two pages long including references. If a longer version of the contribution is available, it can be made accessible on the web and referenced in the abstract.
 
+The abstracts have to be submitted electronically via the EasyChair system using the following link: 
+
+https://easychair.org/conferences/?conf=wadt2020
+
+After the workshop, authors will be invited to submit full papers for the refereed post-proceedings. All submissions will be reviewed by the WADT 2020 PC; selection will be based on originality, soundness and significance of the presented ideas and results. The proceedings are likely to be published as a volume of Lecture Notes in Computer Science (LNCS) by Springer. The deadline for submissions will be 19.5.2020 , with notifications of acceptance by 26.6.2020. Camera-ready versions will be required by 17.7.2020.
+
+### Steering Committee 
+
+- Andrea Corradini (Italy)
+- José Fiadeiro (UK) 
+- Rolf Hennicker (Germany)
+- Alexander Knapp (Germany)
+- Hans-Jörg Kreowski (Germany)
+- Till Mossakowski (Germany)
+- Fernando Orejas (Spain)
+- Leila Ribeiro (Brazil)
+- Markus Roggenbach (UK) [Chair]
+- Grigore Roșu (United States)
+
+### Programme Committee
+
+TBA
+
+### Important Dates
+ 
+ - 14.2.2020 Abstract Submission
+ - 24.2.2020 Notification
+ -  3.4.2020 Camera Ready Abstract 
+ - 25.4.2020 & 26.4.2020 Workshop
+ - 19.5.2020 Submission deadline for full papers
+- 26.6.2020 Notification on full papers
+- 17.7.2020 Camera ready final version of the papers
