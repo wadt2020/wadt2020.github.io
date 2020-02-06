@@ -77,7 +77,7 @@ The abstracts have to be submitted electronically via the EasyChair system using
 
 [Easychair link](https://easychair.org/conferences/?conf=wadt2020)
 
-After the workshop, authors will be invited to submit full papers for the refereed post-proceedings. All submissions will be reviewed by the WADT 2020 PC (TBA); selection will be based on originality, soundness and significance of the presented ideas and results. The proceedings will be published as a volume of Lecture Notes in Computer Science (LNCS) by Springer. The deadline for submissions will be 19.5.2020 , with notifications of acceptance by 26.6.2020. Camera-ready versions will be required by 17.7.2020.
+After the workshop, authors will be invited to submit full papers for the refereed post-proceedings. All submissions will be reviewed by the WADT 2020 PC; selection will be based on originality, soundness and significance of the presented ideas and results. The proceedings will be published as a volume of Lecture Notes in Computer Science (LNCS) by Springer. The deadline for submissions will be 19.5.2020 , with notifications of acceptance by 26.6.2020. Camera-ready versions will be required by 17.7.2020.
 
 ### Steering Committee 
 
