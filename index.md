@@ -8,6 +8,12 @@ The algebraic approach to system specification encompasses many aspects of the f
 
 The workshop takes place under the auspices of IFIP WG 1.3. 
 
+Previous editions or the workshop include
+* [WADT 2018](http://wadt18.cs.rhul.ac.uk)
+* [WADT 2016](http://cs.swan.ac.uk/wadt16)
+* [WADT 2014](http://wadt2014.cs.ovgu.de)
+* [WADT 2012](http://maude.sip.ucm.es/wadt2012)
+
 WADT 2020 will have three thematic streams and one general stream:
 
 * Graph Transformation – chair: Andrea Corradini, Italy
@@ -69,10 +75,9 @@ The presentations will be selected by the relevant PC Chair on the basis of subm
 
 The abstracts have to be submitted electronically via the EasyChair system using the following link: 
 
-
 [Easychair link](https://easychair.org/conferences/?conf=wadt2020)
 
-After the workshop, authors will be invited to submit full papers for the refereed post-proceedings. All submissions will be reviewed by the WADT 2020 PC (TBA); selection will be based on originality, soundness and significance of the presented ideas and results. The proceedings are likely to be published as a volume of Lecture Notes in Computer Science (LNCS) by Springer. The deadline for submissions will be 19.5.2020 , with notifications of acceptance by 26.6.2020. Camera-ready versions will be required by 17.7.2020.
+After the workshop, authors will be invited to submit full papers for the refereed post-proceedings. All submissions will be reviewed by the WADT 2020 PC (TBA); selection will be based on originality, soundness and significance of the presented ideas and results. The proceedings will be published as a volume of Lecture Notes in Computer Science (LNCS) by Springer. The deadline for submissions will be 19.5.2020 , with notifications of acceptance by 26.6.2020. Camera-ready versions will be required by 17.7.2020.
 
 ### Steering Committee 
 
@@ -86,6 +91,32 @@ After the workshop, authors will be invited to submit full papers for the refere
 - Leila Ribeiro (Brazil)
 - Markus Roggenbach (UK) [Chair]
 - Grigore Roșu (United States)
+
+### Programme Committee 
+
+- Wolfgang Ahrendt (Sweden)	
+- Andrea Corradini (Italy) [Co-Chair] 
+- Claire Dross (France)
+- Francisco Durán (Spain)
+- Rachid Echahed (France)
+- Jose Fiadeiro (UK)
+- Reiko Heckel (UK)	
+- Marieke Huisman (The Netherlands) [Co-Chair] 
+- Alexander Knapp	(Germany) [Co-Chair] 
+- Leen Lambers (Germany)
+- Stephan Merz (France)	
+- Rosemary Monahan (Ireland)
+- Till Mossakowski (Germany)
+- Iulian Ober (France)	
+- Peter Ölveczky (Norway)	
+- Wytse Oortwijn (Switzerland)
+- Fernando Orejas (Spain)
+- Carlos Pombo (Argentina)
+- Markus Roggenbach (UK) [Co-Chair] 
+- Pierre-Yves Schobbens (Belgium)	
+- Ionut Tutu (Romania)
+- Mattias Ulbrich (USA)
+- Antonio Vallecillo (Spain)
 
 ### Important Dates
  
