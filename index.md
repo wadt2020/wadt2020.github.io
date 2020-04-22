@@ -9,7 +9,7 @@ The physical 25th International Workshop on Algebraic Development Techniques 202
 * 10.00 Ionut Tutu, José Luiz Fiadeiro and Claudia Chirita: Dynamic reconfigurations through hybrid lenses	
 * 10.30 Tobias Rosenberger, Saddek Bensalem, Alexander Knapp and Markus Roggenbach: Unbabel your tools - Leveraging SPASS for UML
 
-- break, with the possibility for some social conversations in the virtual conference room -
+-- break, with the possibility for some social conversations in the virtual conference room --
 
 #Session 2: (Chair: Marieke Huismann)
 * 11.30 Wytse Oortwijn: Verifying Distributed Systems by Abstracting Channel Interaction
