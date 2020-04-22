@@ -29,7 +29,7 @@ All times are given in British Summer Time (BST)
 
 Not all papers that have been accepted for presentation at the physical workshop will be presented at the virtual workshop.
 
-## Tne following papers have been accepeted for presentation at the Workshop
+## The following papers have been accepeted for presentation at the Workshop
 
 * Wytse Oortwijn:	Verifying Distributed Systems by Abstracting Channel Interaction
 * Marco Bernardo:	General Axioms for Bisimilarity and Traces
