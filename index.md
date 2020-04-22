@@ -25,6 +25,29 @@ The physical 25th International Workshop on Algebraic Development Techniques 202
 
 All times are given in British Summer Time (BST)
 
+Not all papers that have been accepted for presentation at the physical workshop will be presented at the virtual workshop.
+
+## Tne following papers have been accepeted for presentation at the Workshop
+
+* Wytse Oortwijn:	Verifying Distributed Systems by Abstracting Channel Interaction
+* Marco Bernardo:	General Axioms for Bisimilarity and Traces
+* Dominik Klumpp and Philip Lenzen:	K and KIV -- Towards Deductive Verification for Arbitrary Programming Languages	
+* Ai Liu, Renato Neves, Luís Soares Barbosa and Meng Sun:	Effectful Components and Program Equivalence
+* Thierry Boy de La Tour and Rachid Echahed:	Parallel Coherent Graph Transformations
+* Thierry Boy de La Tour:	Monographs, a Category of Graph Structures
+* Conor Reynolds and Rosemary Monahan:	Formalizing Institutions in the Coq Proof Assistant
+* Filippo Bonchi, Robin Piedeleu, Pawel Sobocinski and Fabio Zanasi:	From Linear to Concurrent Algebra: a Diagrammatic Approach
+* Ionut Tutu, José Luiz Fiadeiro and Claudia Chirita:	Dynamic reconfigurations through hybrid lenses	
+* Manisha Jain, Alexandre Madeira and Manuel A. Martins:	Quotients and reductions in a simple Fuzzy Modal Logic	
+* Navid Roux and Florian Rabe:	Functorial Diagram Operators
+* Florian Rabe:	A Logical Framework Perspective on Conservativity
+* Jan Bergstra and John Tucker:	The wheel of rational numbers as an abstract data type	
+* Tobias Rosenberger, Saddek Bensalem, Alexander Knapp and Markus Roggenbach: Unbabel your tools -- Leveraging SPASS for UML
+
+## Invited Speaker
+
+* José Luiz Fiadeiro, University of Dundee, UK
+
 ## Aims and scope
 
 The algebraic approach to system specification encompasses many aspects of the formal design of software systems. Originally born as a formal method for reasoning about abstract data types, it now covers new specification frameworks and programming paradigms (such as object-oriented, aspect oriented, agent-oriented, logic and higher-order functional programming) as well as a wide range of application areas (including information systems, concurrent, distributed and mobile systems). The workshop will provide an opportunity to present recent and ongoing work, to meet colleagues, and to discuss new ideas and future trends.
@@ -100,7 +123,7 @@ The abstracts have to be submitted electronically via the EasyChair system using
 
 [Easychair link](https://easychair.org/conferences/?conf=wadt2020)
 
-After the workshop, authors will be invited to submit full papers for the refereed post-proceedings. All submissions will be reviewed by the WADT 2020 PC; selection will be based on originality, soundness and significance of the presented ideas and results. The proceedings will be published as a volume of Lecture Notes in Computer Science (LNCS) by Springer. The deadline for submissions will be 19.5.2020 , with notifications of acceptance by 26.6.2020. Camera-ready versions will be required by 17.7.2020.
+After the workshop, authors will be invited to submit full papers for the refereed post-proceedings. All submissions will be reviewed by the WADT 2020 PC; selection will be based on originality, soundness and significance of the presented ideas and results. The proceedings will be published as a volume of Lecture Notes in Computer Science (LNCS) by Springer. The deadline for submissions will be 12.6.2020 (new), with notifications of acceptance by 31.7.2020. 
 
 ### Steering Committee 
 
