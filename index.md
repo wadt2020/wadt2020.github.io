@@ -1,6 +1,8 @@
  25th INTERNATIONAL WORKSHOP ON ALGEBRAIC DEVELOPMENT TECHNIQUES 2020
 
-The physical 25th International Workshop on Algebraic Development Techniques 2020 will be co-located with ETAPS 2020 in Dublin.
+As a physical meeting, the 25th International Workshop on Algebraic Development Techniques 2020 will be co-located with ETAPS 2020 in Dublin.
+
+As the ETAPS 2020 has been postponed due the pandemic, WADT 2020 will also happen as a virtual workshop, where a subset of the accepted abstracts will be presented.
 
 ## Tentative Programme of the Virtual Worskhop, 29.4.2020, via Zoom - id to be published on 26.4.2020
 
