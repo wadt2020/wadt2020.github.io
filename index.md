@@ -2,6 +2,29 @@
 
 The 25th International Workshop on Algebraic Development Techniques 2020 will be co-located with ETAPS 2020 in Dublin.
 
+## Tentative Programme of the Virtual Worskhop, 29.4.2020, via Zoom - id to be published on 26.4.2020
+
+Session 1: (Chair: Alexander Knapp - for the 3rd talk: Andrea Corradini)
+ 9.30 Conor Reynolds and Rosemary Monahan: Formalizing Institutions in the Coq Proof Assistant	
+10.00 Ionut Tutu, José Luiz Fiadeiro and Claudia Chirita: Dynamic reconfigurations through hybrid lenses	
+10.30 Tobias Rosenberger, Saddek Bensalem, Alexander Knapp and Markus Roggenbach: Unbabel your tools - Leveraging SPASS for UML
+
+- break, with the possibility for some social conversations in the virtual conference room -
+
+Session 2: (Chair: Marieke Huismann)
+11.30 Wytse Oortwijn: Verifying Distributed Systems by Abstracting Channel Interaction
+12.00 Dominik Klumpp and Philip Lenzen: K and KIV - Towards Deductive Verification for Arbitrary Programming Languages
+
+-- lunch break --
+
+Session 3: (Chair: Markus Roggenbach)
+14.00 Manisha Jain, Alexandre Madeira and Manuel A. Martins: Quotients and reductions in a simple Fuzzy Modal Logic	
+14.30 Navid Roux and Florian Rabe: Functorial Diagram Operators	
+15.00 Jan Bergstra and John Tucker: The wheel of rational numbers as an abstract data type	
+15.30 Filippo Bonchi, Robin Piedeleu, Pawel Sobocinski and Fabio Zanasi: From Linear to Concurrent Algebra: a Diagrammatic Approach (to be confirmed)	
+
+All times are given in British Summer Time (BST)
+
 ## Aims and scope
 
 The algebraic approach to system specification encompasses many aspects of the formal design of software systems. Originally born as a formal method for reasoning about abstract data types, it now covers new specification frameworks and programming paradigms (such as object-oriented, aspect oriented, agent-oriented, logic and higher-order functional programming) as well as a wide range of application areas (including information systems, concurrent, distributed and mobile systems). The workshop will provide an opportunity to present recent and ongoing work, to meet colleagues, and to discuss new ideas and future trends.
