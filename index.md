@@ -141,12 +141,12 @@ After the workshop, authors will be invited to submit full papers for the refere
 - Mattias Ulbrich (USA)
 - Antonio Vallecillo (Spain)
 
-### Important Dates
+### Important Dates (Update from 22.4.2020)
  
  - 14.2.2020 Abstract Submission
  - 24.2.2020 Notification
  -  3.4.2020 Camera Ready Abstract 
- - 25.4.2020 & 26.4.2020 Workshop
- - 19.5.2020 Submission deadline for full papers
-- 26.6.2020 Notification on full papers
-- 17.7.2020 Camera ready final version of the papers
+ - 29.4.2020 Virtual Workshop
+ - 12.6.2020 Submission deadline for full papers (!!!new!!!)
+- 31.7.2020 Notification on full papers (!!!new!!!)
+- Autumn 2020 Physical Workshop together with ETAPS 2020 in Dublin
