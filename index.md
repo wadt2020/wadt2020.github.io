@@ -23,7 +23,7 @@ As ETAPS 2020 has been postponed due the pandemic, WADT 2020 will additionally h
 * 14.00 Manisha Jain, Alexandre Madeira and Manuel A. Martins: Quotients and reductions in a simple Fuzzy Modal Logic	
 * 14.30 Navid Roux and Florian Rabe: Functorial Diagram Operators	
 * 15.00 Jan Bergstra and John Tucker: The wheel of rational numbers as an abstract data type	
-* 15.30 Filippo Bonchi, Robin Piedeleu, Pawel Sobocinski and Fabio Zanasi: From Linear to Concurrent Algebra: a Diagrammatic Approach (to be confirmed)	
+* 15.30 Filippo Bonchi, Robin Piedeleu, Pawel Sobocinski and Fabio Zanasi: From Linear to Concurrent Algebra: a Diagrammatic Approach 
 
 All times are given in British Summer Time (BST)
 
