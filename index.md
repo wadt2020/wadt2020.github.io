@@ -4,7 +4,7 @@ As a physical meeting, the 25th International Workshop on Algebraic Development 
 
 As ETAPS 2020 has been postponed due the pandemic, WADT 2020 will additionally happen as a virtual workshop, where a subset of the accepted abstracts will be presented.
 
-## Programme of the Virtual Worskhop, 29.4.2020, via Zoom: 964 778 93574
+## Programme of the Virtual Worskhop, 29.4.2020, via Zoom: 964-7789-3574
 
 #Session 1: (Chair: Alexander Knapp - for the 3rd talk: Andrea Corradini)
 * 9.30 Conor Reynolds and Rosemary Monahan: Formalizing Institutions in the Coq Proof Assistant	
