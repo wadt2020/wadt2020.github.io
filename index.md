@@ -46,9 +46,10 @@ Not all papers that have been accepted for presentation at the physical workshop
 * Jan Bergstra and John Tucker:	The wheel of rational numbers as an abstract data type	
 * Tobias Rosenberger, Saddek Bensalem, Alexander Knapp and Markus Roggenbach: Unbabel your tools -- Leveraging SPASS for UML
 
-## Invited Speaker
+## Invited Speakers
 
 * José Luiz Fiadeiro, University of Dundee, UK
+* Jaco van de Pol, Aarhus University, DK & University of Twente, NL
 
 ## Aims and scope
 
