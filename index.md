@@ -1,6 +1,6 @@
  25th INTERNATIONAL WORKSHOP ON ALGEBRAIC DEVELOPMENT TECHNIQUES 2020
 
-As ETAPS 2020 has been cancelled due the pandemic, WADT 2020 has happened as a virtual workshop, where a subset of the accepted abstracts will be presented.
+As ETAPS 2020 has been cancelled due the pandemic, WADT 2020 was held as virtual workshop, where a subset of the accepted abstracts were presented.
 
 ## Programme of the Virtual Worskhop, 29.4.2020, via Zoom: 964-7789-3574
 
