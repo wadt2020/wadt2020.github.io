@@ -1,8 +1,6 @@
  25th INTERNATIONAL WORKSHOP ON ALGEBRAIC DEVELOPMENT TECHNIQUES 2020
 
-As a physical meeting, the 25th International Workshop on Algebraic Development Techniques 2020 will be co-located with ETAPS 2020 in Dublin.
-
-As ETAPS 2020 has been postponed due the pandemic, WADT 2020 will additionally happen as a virtual workshop, where a subset of the accepted abstracts will be presented.
+As ETAPS 2020 has been cancelled due the pandemic, WADT 2020 has happened as a virtual workshop, where a subset of the accepted abstracts will be presented.
 
 ## Programme of the Virtual Worskhop, 29.4.2020, via Zoom: 964-7789-3574
 
@@ -167,12 +165,12 @@ After the workshop, authors will be invited to submit full papers for the refere
 - Mattias Ulbrich (USA)
 - Antonio Vallecillo (Spain)
 
-### Important Dates (Update from 22.4.2020)
+### Important Dates (Update from 30.7.2020)
  
  - 14.2.2020 Abstract Submission
  - 24.2.2020 Notification
  -  3.4.2020 Camera Ready Abstract 
  - 29.4.2020 Virtual Workshop
- - 12.6.2020 Submission deadline for full papers (!!!new!!!)
-- 31.7.2020 Notification on full papers (!!!new!!!)
-- Autumn 2020 Physical Workshop together with ETAPS 2020 in Dublin
+ - 12.6.2020 Submission deadline for full papers 
+- 31.7.2020 Notification on full papers 
+- 18.9.2020 Camera Reay papers 
